@@ -17,3 +17,5 @@ Topics to be covered:
 3 - Pip
 
 4 - Flake8
+
+5 - pytest
