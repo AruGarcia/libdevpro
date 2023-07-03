@@ -16,8 +16,4 @@ Topics to be covered:
 
 3 - Pip
 
-4 - Mock
-
-5 - Pipenv
-
-6 - Flake8
+4 - Flake8
