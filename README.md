@@ -19,3 +19,5 @@ Topics to be covered:
 4 - Flake8
 
 5 - pytest
+
+6 - pytest-cov
